@@ -1,0 +1,32 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[me.pcmag.com](https://me.pcmag.com/en/macos/37597/gemini-spark-is-now-available-on-macos-heres-everything-the-ai-agent-can-do)",
+    "[techgenyz.com](https://techgenyz.com/gemini-spark-macos-launch-trust-risks/)",
+    "[bgr.com](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvS0VvR1ZDTkVfT0otWGhvOUVLVTlEb0VpT1BadE1IelZOcnFTdV8wdkxESy1YZURxSlo2Sk4xQlIzSU9JX19qZXZBWWVoa1E1bWRqOTRpc1AwN2dPcEVZM3A0endEd1J0UHRQRG1yUlZwUlpU?oc=5)",
+    "[securityaffairs.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF)"
+  ],
+  "design_plan": "rng=42; AIDA: hero=attention, lead=interest, compare=breadth, CTA=action; hero_lines=2.4; bento_density=grid-auto-flow:dense; label_sweep=competitors+cache; button_contrast=black/white verified",
+  "generated_at": "2026-07-02T20:54:40.722231+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A live editorial brief for buyers and builders tracking personal AI agents \u2014 covering Gemini Spark\u2019s macOS launch, trust and security debates, and why durable computer\u2011use (with caching) is becoming the real differentiator. Includes clear Super perspective against ChatGPT, Gemini, Grok, Siri, Folk, and Orchids."
+}
